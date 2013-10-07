@@ -1,0 +1,62 @@
+a:link   
+{   
+ text-decoration:none;   
+}   
+
+a.nounderline:link   
+{   
+ text-decoration:none;   
+} 
+
+/*table th, td{
+
+	border:3px solid;
+	border:1px solid;
+
+}*/
+
+body{
+
+	background-image:url("bckgrnd.jpg");	
+
+}
+
+
+table#footer, th, td{
+
+	border:1px solid;
+
+}
+
+table#menu, th, td{
+
+	border:3px solid;
+
+}
+
+#menu tr th:hover{
+	
+	background-color:#D8D8D8;
+	cursor: pointer;
+
+}
+
+#banner{
+
+	background-color:white;
+	border:3px solid;
+
+}
+
+table#content, th, td{
+
+	border:3px solid;
+
+}
+
+#footer, #menu, #content{
+
+	background-color:white;	
+	
+}	
+
